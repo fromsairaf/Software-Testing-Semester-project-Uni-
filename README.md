@@ -1,0 +1,1 @@
+This a simple software testing(Automating testing project that i have made using selenium, eclipse IDE). I have also shared all the resources from whom i take help to made this project.By following that tutorials anyone can easily made this kind of project.
