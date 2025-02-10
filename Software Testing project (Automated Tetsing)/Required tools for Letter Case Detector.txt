@@ -1,0 +1,49 @@
+The tools that are needed for this project
+//for website
+VS Code (IDE) for html, css and js
+
+//for writing test case
+setup tool(Java + eclipse IDE + selenium + maven)
+
+1.How to install java in windows
+https://youtu.be/SQykK40fFds?si=olKxgP4l3jL11nEF
+
+2.How to install Selenium WebDriver on Eclipse
+https://www.youtube.com/watch?v=IkK7bS6hLms
+
+3.How to do Selenium & Chrome driver setup using Maven
+https://www.youtube.com/watch?v=0doPzFrUW7o&list=PLhMD-W0CxabVpBcgskh7B6k7c-wh_ijlX&index=14
+
+4.How to write your first test case (Example:Automation script for facebook login page)
+https://www.youtube.com/watch?v=uVPGAfNVGmk&list=PLhMD-W0CxabVpBcgskh7B6k7c-wh_ijlX&index=15
+
+
+For understanding, web automation testing you can follow this hindi playlist:
+https://www.youtube.com/watch?v=RYsYwW4lzzs&list=PLhMD-W0CxabVpBcgskh7B6k7c-wh_ijlX&index=2
+
+
+some things to be noted:
+1.Add selenium dependecy in pom.xml file (u can follow this tutorial)
+https://www.youtube.com/watch?v=0doPzFrUW7o&list=PLhMD-W0CxabVpBcgskh7B6k7c-wh_ijlX&index=15
+2.if you are getting Pom.xml error line 1
+https://www.youtube.com/watch?v=mihFlt6uERg
+
+You can read this for knowledge
+1.Selenium:
+=> A library (or framework) for automating web browser actions
+=> PRovides classes and methods to simulate user actions like clicking, typing, or scrolling
+=> Import dependencies (like in pom.xml) to use these features in the code
+=> Often called a "tool" because it helps automate and test web applications efficiently
+
+2.Maven 
+=> a build tool for Java projects
+=> Helps manage project dependencies (libraries your project needs)
+=> Builds the project, and ensures everything is organized properly.
+
+3.Eclipse 
+=> An Integrated Development Environment (IDE)
+=> It's like a workspace where you can write, run, and debug your code.
+=> Makes coding easier by offering features like syntax highlighting and debugging tools.
+
+If you have any query relating setting this project in your system:
+you can contact me here: fromsairaf@gmail.com
